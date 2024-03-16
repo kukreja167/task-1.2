@@ -4,4 +4,9 @@ void main(){}
 =======
 void main(){}
 >>>>>>> 293e41eeaad2f44a1271885bf6ce1953ec6b1ce8
+<<<<<<< HEAD
 scanf("%d",&a);
+=======
+int a;
+printf("enetr the value of a");
+>>>>>>> c1ec80e2d91eaaa0f2b92785fe0e398a7432830a
