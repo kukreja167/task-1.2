@@ -1,2 +1,6 @@
 #include<stdio.h>
+<<<<<<< HEAD
 void main(){}
+=======
+void main(){}
+>>>>>>> 293e41eeaad2f44a1271885bf6ce1953ec6b1ce8
