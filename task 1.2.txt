@@ -10,3 +10,4 @@ scanf("%d",&a);
 int a;
 printf("enter the value of a");
 >>>>>>> c1ec80e2d91eaaa0f2b92785fe0e398a7432830a
+scanf("%d",&a);
